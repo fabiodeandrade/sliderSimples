@@ -1,4 +1,5 @@
 //Lista de variáveis
+
 let time = 2000;
 let currentImageIndex = 0;
 let images = document.querySelectorAll("#slider img");
@@ -24,5 +25,5 @@ let max = images.length;
     }, time);
 }
 
-//ouvir evento
+//ouvir evento direto do DOM
 window.addEventListener("load", start)
