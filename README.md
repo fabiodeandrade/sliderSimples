@@ -25,15 +25,15 @@ Com esse projeto você pode facilmente exercitar conceitos de :
   - CSS
   - funções nativas do JS como SetInterval, ClassList
   
-  #lógica do slider
-  1 - [HTML] atribuir uma classe para uma imagem
-  2 - [JS] criar uma função para trocar a imagem de acordo com o tempo selecionado
-  3 - [JS] criar uma função para remover a classe da imagem
-  4 - [JS] incrementar a variável de leitura
-  5 - [JS] condicionar a função em relação ao número de imagens
-  6 - [JS] adicionar classe a imagem
-  7 - [CSS] alterar a opacidade de acordo com a classe removida e inserida
+# lógica do slider
+    1 - [HTML] atribuir uma classe para uma imagem
+    2 - [JS] criar uma função para trocar a imagem de acordo com o tempo selecionado
+    3 - [JS] criar uma função para remover a classe da imagem
+    4 - [JS] incrementar a variável de leitura
+    5 - [JS] condicionar a função em relação ao número de imagens
+    6 - [JS] adicionar classe a imagem
+    7 - [CSS] alterar a opacidade de acordo com a classe removida e inserida
   
-  # considerações finais
+# considerações finais
   
   Espero que esse simples slider possa te ajudar, seja quanto exercicio ou como incentivo de sempre continuar estudando :)
